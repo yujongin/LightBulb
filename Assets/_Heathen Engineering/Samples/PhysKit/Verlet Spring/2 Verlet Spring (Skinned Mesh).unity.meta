@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4bcb317693b9884f8c15fbe2d0d8cb7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Samples/PhysKit/Verlet Spring/2 Verlet Spring
+    (Skinned Mesh).unity
+  uploadId: 495569

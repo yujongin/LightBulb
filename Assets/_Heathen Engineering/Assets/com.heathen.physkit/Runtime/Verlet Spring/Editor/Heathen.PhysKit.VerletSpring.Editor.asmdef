@@ -1,0 +1,25 @@
+{
+    "name": "Heathen.PhysKit.VerletSpring.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:58d42c70423577947911995925414405",
+        "GUID:5881b52d0691c6248ab32d2d6dbf5897"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.heathen.systemcore",
+            "expression": "",
+            "define": "HE_SYSCORE"
+        }
+    ],
+    "noEngineReferences": false
+}

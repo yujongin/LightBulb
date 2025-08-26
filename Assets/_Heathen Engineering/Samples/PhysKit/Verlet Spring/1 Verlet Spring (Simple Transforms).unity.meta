@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc4cf5b6a87d62a4aacb5a3e573042a2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Samples/PhysKit/Verlet Spring/1 Verlet Spring
+    (Simple Transforms).unity
+  uploadId: 495569

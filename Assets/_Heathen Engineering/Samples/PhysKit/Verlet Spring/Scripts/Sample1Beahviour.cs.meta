@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e1762591b473ea74f85500a08a49559b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Samples/PhysKit/Verlet Spring/Scripts/Sample1Beahviour.cs
+  uploadId: 495569

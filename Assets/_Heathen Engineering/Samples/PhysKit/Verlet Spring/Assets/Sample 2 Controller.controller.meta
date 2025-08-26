@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 826a1e4c1f7a43c43aa114dc8c42c871
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Samples/PhysKit/Verlet Spring/Assets/Sample
+    2 Controller.controller
+  uploadId: 495569

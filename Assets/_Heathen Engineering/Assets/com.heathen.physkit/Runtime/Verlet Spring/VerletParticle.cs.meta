@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5aca5bf2fb2279546b3afa1153fa439c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Assets/com.heathen.physkit/Runtime/Verlet
+    Spring/VerletParticle.cs
+  uploadId: 495569

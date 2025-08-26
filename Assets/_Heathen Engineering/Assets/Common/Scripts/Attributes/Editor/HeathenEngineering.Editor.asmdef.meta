@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17537fff6f20c154b8dcfe764d155bd5
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Assets/Common/Scripts/Attributes/Editor/HeathenEngineering.Editor.asmdef
+  uploadId: 495569

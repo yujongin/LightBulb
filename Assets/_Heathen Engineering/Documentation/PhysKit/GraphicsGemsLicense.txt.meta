@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33a917fb5cfcd2f48a94f131ab1f1a84
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Documentation/PhysKit/GraphicsGemsLicense.txt
+  uploadId: 495569

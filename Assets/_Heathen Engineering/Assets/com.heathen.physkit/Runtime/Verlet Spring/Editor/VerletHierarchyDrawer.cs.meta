@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b41f97073bcbee147a325021ecc3fc76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Assets/com.heathen.physkit/Runtime/Verlet
+    Spring/Editor/VerletHierarchyDrawer.cs
+  uploadId: 495569

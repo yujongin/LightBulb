@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4b5029239b009dd44bf90881e1e5e2a4
+timeCreated: 1437827266
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Assets/Common/Scripts/Attributes/Editor/PropertyAttributes.cs
+  uploadId: 495569

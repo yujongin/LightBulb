@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68743e4347aa77a47bd1e185476d7638
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238231
+  packageName: viper OSK On-Screen Keyboard
+  packageVersion: 3.5
+  assetPath: Assets/viperOSK/Examples/Fonts/Anton OFL.txt
+  uploadId: 711664

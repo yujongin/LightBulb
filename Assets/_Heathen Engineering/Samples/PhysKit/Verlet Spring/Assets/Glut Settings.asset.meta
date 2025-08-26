@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d593ca033052d694da7f50d66a11faaa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Samples/PhysKit/Verlet Spring/Assets/Glut
+    Settings.asset
+  uploadId: 495569

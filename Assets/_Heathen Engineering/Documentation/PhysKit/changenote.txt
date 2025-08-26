@@ -1,0 +1,13 @@
+v2020.2.18.1
+
+Patch Notes:
+Major update to the strucutre of the kit to conform to modern Unity and Heathen assets.
+We Strongly recomend you fully remove any old version before importing
+
+This asset is a copy of what is available on Heathen's SourceRepo on GitHub. you can gain access to Heathen's SourceRepo by becoming a GitHub supporter.
+https://github.com/sponsors/heathen-engineering
+At the 10 USD level you get full source access to Steamworks Complete, PhysKit Complete and UX Complete plus additional assets not available on Unity Asset Store
+such as Steam uGUI Tools and dedicated support, issue tracking and feedback systems.
+
+GitHub
+- Updated to be in line with the GitHub version, GitHub is now the primary source for PhysKit Complete Unity Asset Store will be mainted as a copy but may be a few versions behind.

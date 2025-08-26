@@ -1,0 +1,126 @@
+{
+  "encyclopediaItems": [
+    {
+      "itemKey": "polar_bear",
+      "itemName": "북극곰",
+      "itemImageInfo": [
+        {
+          "itemImage": "https://images.unsplash.com/photo-1518646650927-a4dd2c34ad41?w=800&h=600&fit=crop",
+          "authorship": "National Geographic",
+          "sourceLink": "https://example.com/polar-bear-adult",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "itemImage": "https://images.unsplash.com/photo-1605026669607-2e3a5b5b9f93?w=800&h=600&fit=crop",
+          "authorship": "Arctic Wildlife Foundation",
+          "sourceLink": "https://example.com/polar-bear-cubs",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "itemImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+          "authorship": "Climate Research Institute",
+          "sourceLink": "https://example.com/arctic-habitat",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "itemDescription": [
+        "북극곰은 북극 지역에 서식하는 대형 포유동물입니다. 흰색 털로 덮여 있어 눈 속에서 완벽한 위장이 가능합니다.",
+        "주로 물개를 사냥하며 뛰어난 수영 실력을 가지고 있습니다. 최대 60km까지 헤엄칠 수 있는 놀라운 지구력을 보여줍니다.",
+        "기후 변화로 인한 해빙 감소가 이들의 서식지를 크게 위협하고 있어 보호가 시급한 상황입니다."
+      ],
+      "lifeStyle": [
+        "북극의 얼음 위에서 생활하며 주로 물개 사냥을 통해 생계를 유지합니다. 뛰어난 후각으로 1.6km 떨어진 곳의 물개도 감지할 수 있습니다.",
+        "겨울철 임신한 암컷은 얼음 굴을 파서 새끼를 낳고 보호합니다. 새끼들은 어미의 지방이 풍부한 젖을 먹고 빠르게 성장합니다.",
+        "기후 변화로 인한 서식지 파괴가 주요 위협 요소이며, 현재 국제적으로 보호받고 있는 멸종위기종입니다."
+      ]
+    },
+    {
+      "itemKey": "microscope",
+      "itemName": "현미경",
+      "itemImageInfo": [
+        {
+          "itemImage": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&h=600&fit=crop",
+          "authorship": "과학교육재단",
+          "sourceLink": "https://example.com/microscope",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "itemDescription": [
+        "현미경은 육안으로 보기 어려운 작은 물체를 확대해서 관찰하는 정밀 광학기구입니다. 17세기에 발명된 이후 과학 발전에 혁명적 기여를 했습니다.",
+        "생물학 실험에서 세포나 미생물을 관찰할 때 필수적인 도구로, 최대 수천 배까지 확대가 가능합니다.",
+        "배율과 해상도에 따라 광학현미경, 전자현미경, 형광현미경 등으로 분류되며 각각 다른 용도로 사용됩니다."
+      ],
+      "lifeStyle": [
+        "학교 과학실과 연구소에서 생물 표본 관찰 시 필수적으로 사용됩니다. 세포 구조와 미생물의 모습을 자세히 관찰할 수 있습니다.",
+        "의료 분야에서는 혈액 검사, 세포 진단 등에 활용되어 질병 진단과 치료에 중요한 역할을 합니다.",
+        "연구 분야에서는 새로운 생명체 발견, 세포 분열 과정 관찰, 미생물 연구 등 첨단 과학 연구의 핵심 도구입니다."
+      ]
+    },
+    {
+      "itemKey": "test_tube",
+      "itemName": "시험관",
+      "itemImageInfo": [
+        {
+          "itemImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+          "authorship": "화학실험연구소",
+          "sourceLink": "https://example.com/test-tube",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "itemDescription": [
+        "시험관은 소량의 액체나 기체를 담는 원통형 유리 용기로, 화학 실험의 가장 기본적인 도구 중 하나입니다.",
+        "화학 실험에서 반응물을 혼합하거나 가열할 때 사용되며, 반응 과정을 안전하고 정확하게 관찰할 수 있습니다.",
+        "일반적으로 10ml~50ml 용량을 가지며, 내열 유리로 제작되어 고온 실험에도 안전하게 사용할 수 있습니다."
+      ],
+      "lifeStyle": [
+        "학교 화학 실험실에서 소량의 화학 반응 실험에 널리 사용됩니다. 안전하고 정확한 실험을 위한 필수 도구입니다.",
+        "의료 분야에서는 혈액 검사, 소변 검사 등 각종 임상 검사용 시료 보관에 활용됩니다.",
+        "연구소에서는 시험관 거치대와 함께 사용하여 여러 실험을 동시에 진행하고 결과를 비교 분석하는 데 중요한 역할을 합니다."
+      ]
+    },
+    {
+      "itemKey": "beaker",
+      "itemName": "비커",
+      "itemImageInfo": [
+        {
+          "itemImage": "beaker_icon.png",
+          "authorship": "과학실험연구소",
+          "sourceLink": "https://example.com/beaker",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "itemDescription": [
+        "비커는 실험실에서 가장 기본적인 유리 용기로, 넓은 입구와 주둥이가 특징인 원통형 용기입니다.",
+        "액체를 담거나 혼합할 때 사용하며, 측면에 눈금이 있어 대략적인 부피 측정이 가능합니다.",
+        "용량은 50ml부터 2L까지 다양하며, 내열성이 뛰어나 가열 실험에도 안전하게 사용할 수 있습니다."
+      ],
+      "lifeStyle": [
+        "화학 실험실에서 용액 제조, 화학 반응 관찰, 물질 용해 등 다양한 실험에 기본적으로 사용됩니다.",
+        "정확한 부피 측정보다는 대략적인 측정과 혼합 작업에 적합하여 일상적인 실험 작업에 매우 유용합니다.",
+        "내열성과 화학적 안정성이 뛰어나 산, 염기 등 다양한 화학물질과의 반응 실험에도 안전하게 활용됩니다."
+      ]
+    },
+    {
+      "itemKey": "thermometer",
+      "itemName": "온도계",
+      "itemImageInfo": [
+        {
+          "itemImage": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&h=600&fit=crop",
+          "authorship": "측정기기연구소",
+          "sourceLink": "https://example.com/thermometer",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "itemDescription": [
+        "온도계는 물체나 환경의 온도를 정확하게 측정하는 정밀 기구로, 과학 실험에서 매우 중요한 역할을 합니다.",
+        "실험실에서는 반응물의 온도 변화를 관찰하고 기록하여 화학 반응의 특성을 분석하는 데 사용됩니다.",
+        "수은 온도계, 알코올 온도계, 디지털 온도계 등 다양한 종류가 있으며 각각 측정 범위와 정확도가 다릅니다."
+      ],
+      "lifeStyle": [
+        "화학 반응 실험에서 온도 변화를 측정하여 반응의 진행 상황과 특성을 파악하는 중요한 도구로 활용됩니다.",
+        "가열 실험에서는 안전한 온도 범위를 유지하고 과열을 방지하여 실험 안전성을 보장하는 역할을 합니다.",
+        "생물학 실험에서는 생물체의 최적 생장 온도를 유지하고 환경 조건을 정밀하게 제어하는 데 필수적입니다."
+      ]
+    }
+  ]
+} 

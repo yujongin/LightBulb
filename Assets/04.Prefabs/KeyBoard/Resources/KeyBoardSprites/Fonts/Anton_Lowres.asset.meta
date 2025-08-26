@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8663b9e6404d33741bcb49bcd490b76b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238231
+  packageName: viper OSK On-Screen Keyboard
+  packageVersion: 3.5
+  assetPath: Assets/viperOSK/Examples/Fonts/Anton_Lowres.asset
+  uploadId: 711664

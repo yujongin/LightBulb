@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bd46e1acb2255c4c8b5da0cb3a7757c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Documentation/PhysKit/ConvexHullLicense.txt
+  uploadId: 495569

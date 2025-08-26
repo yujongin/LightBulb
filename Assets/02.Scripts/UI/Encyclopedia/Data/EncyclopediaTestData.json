@@ -1,0 +1,36 @@
+{
+  "encyclopediaItems": [
+    {
+      "itemKey": "Mercury",
+      "itemName": "북극곰 (Polar Bear)",
+      "itemImageData": [
+        {
+          "itemImage": "https://picsum.photos/780/360",
+          "authorship": "National Geographic",
+          "sourceLink": "https://example.com/polar-bear-adult",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "itemImage": "https://picsum.photos/780/360",
+          "authorship": "Arctic Wildlife Foundation",
+          "sourceLink": "https://example.com/polar-bear-cubs",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "itemImage": "https://picsum.photos/780/360",
+          "authorship": "Climate Research Institute",
+          "sourceLink": "https://example.com/arctic-habitat",
+          "CCBYLink": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "itemDescription": [
+        "북극곰은 북극 지역에서 서식하는 세계에서 가장 큰 육식 동물입니다.",
+        "두꺼운 지방층과 빽빽한 털로 영하 40도까지 견딜 수 있습니다."
+      ],
+      "lifeStyle": [
+        "환경 보호 단체에서 기후 변화의 상징으로 활용하며 보호 활동 전개",
+        "동물원에서 북극 생태계 교육을 위한 대표 전시 동물로 활용"
+      ]
+    }
+  ]
+} 

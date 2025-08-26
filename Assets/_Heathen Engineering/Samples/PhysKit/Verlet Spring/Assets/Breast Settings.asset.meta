@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 07adf7fdb06e6d041adcfde461f2d0fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173686
+  packageName: 'PhysKit: Verlet Spring'
+  packageVersion: 2020.2.18.1
+  assetPath: Assets/_Heathen Engineering/Samples/PhysKit/Verlet Spring/Assets/Breast
+    Settings.asset
+  uploadId: 495569
